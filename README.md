@@ -1,3 +1,29 @@
+# Buildfy-Free
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+An easy and fast way to create a Python GUI 🐍 | This software allows you to create complex UI faster than ever⚡
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+快速创建 Python GUI 的工具，以更简单的方式构建复杂界面。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="assets/Logo.png" alt="Buildfy Logo" width="150" />
 </p>
